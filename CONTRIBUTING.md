@@ -2771,3 +2771,9 @@
 - Place: Tinsukia, Assam, India
 - Bio: A 3rd year undergrad pursuing B.Tech in Computer Science
 - GitHub: [deedeecee](https://github.com/deedeecee)
+
+#### Name: [Mylena Angélica](https://github.com/Mylena-angelica)
+
+- Place: Brasília,Brazil
+- Bio: Software student
+- GitHub: [mylena-angelica](https://github.com/Mylena-angelica)
